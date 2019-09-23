@@ -1,1 +1,5 @@
-omething else is added by dev1.
+<<<<<<< HEAD
+added by dev1.
+=======
+This file is used to demonstrate.
+>>>>>>> c3acfcdbfa21f684acc3a4b9d3fd2534e40861d3
